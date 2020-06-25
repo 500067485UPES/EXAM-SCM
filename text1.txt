@@ -1,15 +1,7 @@
- #include <iostream>
- using namespace std;
- int main()
- {
- char op;
- float num1, num2;
- cout << "enter operator + or - :";
- cin >> op;
-
- cout << "Enter two operands:";
- cin >> num1 >> num2;
- swutch (op)
- {
- case ' 
- #COMPLETE C++ PROGRAM
+Public class ScmLab
+{
+public static void main(String[] args)
+{
+System.out.println("sending pull request");
+}
+}
